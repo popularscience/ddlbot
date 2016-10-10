@@ -1,0 +1,7 @@
+io/jabbari/popsci/Main.class
+io/jabbari/popsci/Util.class
+io/jabbari/popsci/PopSciDataModel/Row.class
+io/jabbari/popsci/Slack/ISlackBot.class
+io/jabbari/popsci/GoogleDocs/IGoogleRequests.class
+io/jabbari/popsci/GoogleDocs/Google.class
+io/jabbari/popsci/Slack/SlackBot.class
